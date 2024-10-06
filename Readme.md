@@ -15,18 +15,20 @@ I don't wanna pay for any wallpaper app 🙂
 ## 📥 Installation
 
 
+
+### Clone the repository
 ```bash
-# Clone the repository
 git clone git clone https://github.com/abhinavanRoy/paid-zero-for-wallpapers.git
+```
+### Install Python duhh!
 
-# Install Python duhh!
-
-# Install these modules
+### Install these modules
+```bash
 pip install requests bs4
-
-# Get it downloading
+```
+### Get it downloading
+```bash
 py wallpapers.py
-
 ```
 ## ⚡ Technologies used
 - Python
