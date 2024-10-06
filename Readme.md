@@ -17,7 +17,7 @@ I don't wanna pay for any wallpaper app 🙂
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone git clone https://github.com/abhinavanRoy/paid-zero-for-wallpapers.git
 
 # Install Python duhh!
 
