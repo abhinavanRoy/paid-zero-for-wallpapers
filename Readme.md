@@ -5,9 +5,9 @@ I don't wanna pay for any wallpaper app 🙂
 
 ## 🚀 Features
 
-💨 Downloads are blazing fast as it uses multithreads.
-⬇️ Downloads every image of every single form factor
-📁 Folders are automatically made for each form factor.
+- 💨 Downloads are blazing fast as it uses multithreads.
+- ⬇️ Downloads every image of every single form factor
+- 📁 Folders are automatically made for each form factor.
 
 ---
 
