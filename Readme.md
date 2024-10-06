@@ -31,7 +31,7 @@ py wallpapers.py
 ## ⚡ Technologies used
 - Python
 
-# 🤝 Contributing
+## 🤝 Contributing
 Fork this repo and do whatever you want.
 
-# ❤️ Enjoy the wallpapers
+## ❤️ Enjoy the wallpapers
