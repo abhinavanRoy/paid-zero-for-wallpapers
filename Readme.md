@@ -1,3 +1,6 @@
+ > [!NOTE]
+ > The api has been blocked.
+
 # Just download the wallpapers
 
 ## Why?
